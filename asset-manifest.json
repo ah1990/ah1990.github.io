@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cl4you/static/css/main.073c9b0a.css",
-    "main.js": "/cl4you/static/js/main.530ec8e4.js",
-    "static/js/787.1bc02d36.chunk.js": "/cl4you/static/js/787.1bc02d36.chunk.js",
-    "index.html": "/cl4you/index.html",
-    "main.073c9b0a.css.map": "/cl4you/static/css/main.073c9b0a.css.map",
-    "main.530ec8e4.js.map": "/cl4you/static/js/main.530ec8e4.js.map",
-    "787.1bc02d36.chunk.js.map": "/cl4you/static/js/787.1bc02d36.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.ebd4c40e.js",
+    "static/js/787.1bc02d36.chunk.js": "/static/js/787.1bc02d36.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.ebd4c40e.js.map": "/static/js/main.ebd4c40e.js.map",
+    "787.1bc02d36.chunk.js.map": "/static/js/787.1bc02d36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.530ec8e4.js"
+    "static/js/main.ebd4c40e.js"
   ]
 }
